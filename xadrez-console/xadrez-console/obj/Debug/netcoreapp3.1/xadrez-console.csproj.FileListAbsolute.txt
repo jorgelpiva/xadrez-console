@@ -1,4 +1,3 @@
-C:\Temp\ws-vs2019\xadrez-console\xadrez-console\xadrez-console\obj\Debug\netcoreapp3.1\xadrez-console.csprojAssemblyReference.cache
 C:\Temp\ws-vs2019\xadrez-console\xadrez-console\xadrez-console\obj\Debug\netcoreapp3.1\xadrez-console.AssemblyInfoInputs.cache
 C:\Temp\ws-vs2019\xadrez-console\xadrez-console\xadrez-console\obj\Debug\netcoreapp3.1\xadrez-console.AssemblyInfo.cs
 C:\Temp\ws-vs2019\xadrez-console\xadrez-console\xadrez-console\obj\Debug\netcoreapp3.1\xadrez-console.csproj.CoreCompileInputs.cache
@@ -11,3 +10,4 @@ C:\Temp\ws-vs2019\xadrez-console\xadrez-console\xadrez-console\bin\Debug\netcore
 C:\Temp\ws-vs2019\xadrez-console\xadrez-console\xadrez-console\obj\Debug\netcoreapp3.1\xadrez-console.dll
 C:\Temp\ws-vs2019\xadrez-console\xadrez-console\xadrez-console\obj\Debug\netcoreapp3.1\xadrez-console.pdb
 C:\Temp\ws-vs2019\xadrez-console\xadrez-console\xadrez-console\obj\Debug\netcoreapp3.1\xadrez-console.genruntimeconfig.cache
+C:\Temp\ws-vs2019\xadrez-console\xadrez-console\xadrez-console\obj\Debug\netcoreapp3.1\xadrez-console.csprojAssemblyReference.cache
